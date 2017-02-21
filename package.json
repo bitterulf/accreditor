@@ -1,0 +1,27 @@
+{
+  "name": "accreditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitterulf/accreditor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitterulf/accreditor/issues"
+  },
+  "homepage": "https://github.com/bitterulf/accreditor#readme",
+  "dependencies": {
+    "basic-auth": "^1.1.0",
+    "boom": "^4.2.0",
+    "hapi": "^16.1.0",
+    "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.4",
+    "node-rsa": "^0.4.2"
+  }
+}

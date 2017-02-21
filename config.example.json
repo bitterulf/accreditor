@@ -1,0 +1,9 @@
+{
+	"userService": {
+		"password": "secret",
+		"expiresIn": "1m",
+		"payload": {
+			"accreditationType": "user"
+		}
+	}
+}
